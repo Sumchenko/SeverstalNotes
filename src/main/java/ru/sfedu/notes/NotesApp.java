@@ -7,9 +7,12 @@ import ru.sfedu.notes.models.Note;
 import java.util.List;
 import java.util.Scanner;
 
+/*
+Основной класс приложения
+ */
 public class NotesApp {
-    private DatabaseManager dbManager;
-    private Scanner scanner;
+    private final DatabaseManager dbManager;
+    private final Scanner scanner;
 
     private static final Logger log = Logger.getLogger(NotesApp.class);
 
@@ -18,15 +21,18 @@ public class NotesApp {
         scanner = new Scanner(System.in);
     }
 
+    /*
+    Главный цикл приложения
+     */
     public void run() {
         initializeDefaultNote();
 
         while (true) {
             showMenu();
-            String in = scanner.nextLine();
+            String input = scanner.nextLine();
 
             try {
-                int choice = Integer.parseInt(in);
+                int choice = Integer.parseInt(input);
                 switch (choice) {
                     case 1:
                         showNotes();
@@ -54,7 +60,10 @@ public class NotesApp {
         }
     }
 
-    public void showMenu() {
+    /*
+    Отображает меню приложения в консоли
+     */
+    private void showMenu() {
         System.out.println(
                 "\n1. Показать все заметки.\n" +
                 "2. Создать заметку.\n" +
@@ -63,7 +72,10 @@ public class NotesApp {
                 "5. Выход.");
     }
 
-    public void showNotes() {
+    /*
+    Отображет существующие заметки
+     */
+    private void showNotes() {
         List<Note> notes = dbManager.getAllNotes();
         if (notes.isEmpty()) {
             System.out.println("Вы еще не создали заметку");
@@ -74,13 +86,19 @@ public class NotesApp {
         }
     }
 
-    public void createNote() {
+    /*
+    Создание заметки пользователем
+     */
+    private void createNote() {
         System.out.println("Введите текст: ");
         String text = scanner.nextLine();
         dbManager.createNote(text);
     }
 
-    public void editNote() {
+    /*
+    Редактирование заметки пользователем
+     */
+    private void editNote() {
         showNotes();
         System.out.println("Введите id заметки: ");
         try {
@@ -98,7 +116,10 @@ public class NotesApp {
 
     }
 
-    public void deleteNote() {
+    /*
+    Удаление заметки пользователем
+     */
+    private void deleteNote() {
         showNotes();
         System.out.println("Введите id заметки: ");
         try{
@@ -114,7 +135,10 @@ public class NotesApp {
 
     }
 
-    public void initializeDefaultNote() {
+    /*
+    Инициализация заметки по умолчанию при первом запуске приложения спустой БД
+     */
+    private void initializeDefaultNote() {
         if (dbManager.getAllNotes().isEmpty()) {
             dbManager.createNote("Начни создавать свои заметки (Заметка по умолчанию)");
         }

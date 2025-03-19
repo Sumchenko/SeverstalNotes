@@ -9,14 +9,21 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
+
+/* Класс для взаимодйствия с БД PostgreSQL
+   содержит CRUD операции для управления заметками (Note)
+ */
 public class DatabaseManager {
     private Connection connection;
 
     private static final Logger log = Logger.getLogger(DatabaseManager.class);
 
-    public DatabaseManager() {
+    /*
+    Конструктор для подключения к БД через конфиг файл
+     */
+    public DatabaseManager(String configFile) {
         Properties properties = new Properties();
-        try (InputStream in = getClass().getClassLoader().getResourceAsStream("configDB.properties")) {
+        try (InputStream in = getClass().getClassLoader().getResourceAsStream(configFile)) {
             if (in == null) {
                 log.error("Файл конфигурации отсутствует");
                 return;
@@ -32,6 +39,14 @@ public class DatabaseManager {
         }
     }
 
+    public DatabaseManager() {
+        this("configDB.properties"); // По умолчанию основной файл
+    }
+
+
+    /*
+    Метод для создания заметки
+     */
     public void createNote(String text) {
         if (connection == null) {
             log.error("Нет соединения с БД");
@@ -48,6 +63,9 @@ public class DatabaseManager {
         }
     }
 
+    /*
+    Получение списка всех заметок
+     */
     public List<Note> getAllNotes() {
         if (connection == null) {
             log.error("Нет соединения с БД");
@@ -65,13 +83,16 @@ public class DatabaseManager {
                 notes.add(note);
             }
             log.info("Успешное получение заметок");
-        } catch (Exception e) {
+        } catch (SQLException e) {
             log.error("ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: " + e.getMessage());
         }
 
         return notes;
     }
 
+    /*
+    Обновление заметки по заданному id
+     */
     public void updateNote(int id, String newText) {
         if (connection == null) {
             log.error("Нет соединения с БД");
@@ -89,6 +110,9 @@ public class DatabaseManager {
         }
     }
 
+    /*
+    Удаление заметки по заданному id
+     */
     public void deleteNote(int id) {
         if (connection == null) {
             log.error("Нет соединения с БД");
@@ -105,6 +129,9 @@ public class DatabaseManager {
         }
     }
 
+    /*
+    Проверяет существование заметки по id
+     */
     public boolean checkExistence(int id) {
 
         String sql = "SELECT COUNT(*) FROM notes WHERE id = ?";
@@ -121,6 +148,9 @@ public class DatabaseManager {
         return false;
     }
 
+    /*
+    Закрывает соединение с БД
+     */
     public void closeConnection() {
         if (connection != null) {
             try {

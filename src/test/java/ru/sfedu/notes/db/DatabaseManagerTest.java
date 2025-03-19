@@ -21,18 +21,18 @@ public class DatabaseManagerTest {
     @Before
     public void setUp() throws SQLException {
         connection = DriverManager.getConnection(
-                "jdbc:postgresql://localhost:5432/notes",
+                "jdbc:postgresql://localhost:5432/notes_test",
                 "postgres",
                 "02052004"
         );
         try (Statement statement = connection.createStatement()) {
             statement.execute("TRUNCATE TABLE notes RESTART IDENTITY");
         }
-        dbManager = new DatabaseManager();
+        dbManager = new DatabaseManager("configDB.properties");
     }
 
     @After
-    public void finish() throws SQLException {
+    public void tearDown() throws SQLException {
         dbManager.closeConnection();
         if (connection != null) {
             connection.close();
