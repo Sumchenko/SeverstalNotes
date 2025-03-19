@@ -1,5 +1,6 @@
 package ru.sfedu.notes;
 
+import org.apache.log4j.Logger;
 import ru.sfedu.notes.db.DatabaseManager;
 import ru.sfedu.notes.models.Note;
 
@@ -9,6 +10,8 @@ import java.util.Scanner;
 public class NotesApp {
     private DatabaseManager dbManager;
     private Scanner scanner;
+
+    private static final Logger log = Logger.getLogger(NotesApp.class);
 
     public NotesApp() {
         dbManager = new DatabaseManager();
@@ -21,34 +24,39 @@ public class NotesApp {
         while (true) {
             showMenu();
             String in = scanner.nextLine();
-            int choice = Integer.parseInt(in);
 
-            switch (choice) {
-                case 1:
-                    showNotes();
-                    break;
-                case 2:
-                    createNote();
-                    break;
-                case 3:
-                    editNote();
-                    break;
-                case 4:
-                    deleteNote();
-                    break;
-                case 5:
-                    dbManager.closeConnection();
-                    break;
-                default:
-                    System.out.println("Неыерный кейс!");
-                    break;
+            try {
+                int choice = Integer.parseInt(in);
+                switch (choice) {
+                    case 1:
+                        showNotes();
+                        break;
+                    case 2:
+                        createNote();
+                        break;
+                    case 3:
+                        editNote();
+                        break;
+                    case 4:
+                        deleteNote();
+                        break;
+                    case 5:
+                        dbManager.closeConnection();
+                        scanner.close();
+                        System.exit(0);
+                    default:
+                        log.warn("Неверный кейс!");
+                        break;
+                }
+            } catch (NumberFormatException e) {
+                log.warn("Введите число!");
             }
         }
     }
 
     public void showMenu() {
         System.out.println(
-                "1. Показать все заметки.\n" +
+                "\n1. Показать все заметки.\n" +
                 "2. Создать заметку.\n" +
                 "3. Редактировать заметку.\n" +
                 "4. Удалить заметку.\n" +
@@ -75,22 +83,40 @@ public class NotesApp {
     public void editNote() {
         showNotes();
         System.out.println("Введите id заметки: ");
-        int id = Integer.parseInt(scanner.nextLine());
-        System.out.println("Введите новый текст: ");
-        String newText = scanner.nextLine();
-        dbManager.updateNote(id, newText);
+        try {
+            int id = Integer.parseInt(scanner.nextLine());
+            System.out.println("Введите новый текст: ");
+            String newText = scanner.nextLine();
+            if (!dbManager.checkExistence(id)) {
+                log.warn("Заметка с id " + id + " не найдена");
+                return;
+            }
+            dbManager.updateNote(id, newText);
+        } catch (NumberFormatException e) {
+            log.warn("Введите число!");
+        }
+
     }
 
     public void deleteNote() {
         showNotes();
         System.out.println("Введите id заметки: ");
-        int id = Integer.parseInt(scanner.nextLine());
-        dbManager.deleteNote(id);
+        try{
+            int id = Integer.parseInt(scanner.nextLine());
+            if (!dbManager.checkExistence(id)) {
+                log.warn("Заметка с id " + id + " не найдена");
+                return;
+            }
+            dbManager.deleteNote(id);
+        } catch (NumberFormatException e) {
+            log.warn("Введите число!");
+        }
+
     }
 
     public void initializeDefaultNote() {
         if (dbManager.getAllNotes().isEmpty()) {
-            dbManager.createNote("Начни создавать свои заметки");
+            dbManager.createNote("Начни создавать свои заметки (Заметка по умолчанию)");
         }
     }
 }

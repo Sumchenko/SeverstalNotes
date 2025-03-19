@@ -13,7 +13,6 @@ public class Note {
         return id;
     }
 
-
     public String getText() {
         return text;
     }
@@ -23,6 +22,6 @@ public class Note {
     }
 
     public String toString() {
-        return "Заметка №-" + id + ":\n" + text;
+        return "Заметка №-" + id + ":\n" + text + "\n";
     }
 }

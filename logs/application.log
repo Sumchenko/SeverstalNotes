@@ -1,0 +1,94 @@
+03.19 11.59.05  WARN main ru.sfedu.notes.NotesApp - Неверный кейс!
+03.19 11.59.21  WARN main ru.sfedu.notes.NotesApp - Введите число!
+03.19 12.01.13  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 12.04.11  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 12.04.11  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.04.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.04.32  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 12.04.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.04.35  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 12.04.37  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.05.07  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 12.05.07  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.05.07  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 12.05.19  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.12.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 12.12.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.12.42  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 12.20.18  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 12.20.18  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.20.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.20.32  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 12.38.28  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 12.38.28  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.38.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.38.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.38.42  WARN main ru.sfedu.notes.NotesApp - Заметка с id 3 не найдена
+03.19 12.38.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.38.53  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 12.39.21  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 12.39.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.39.27  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.39.32  WARN main ru.sfedu.notes.NotesApp - Заметка с id 1 не найдена
+03.19 12.39.34  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 12.46.53  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 12.46.53  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.46.55  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.46.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.47.00  WARN main ru.sfedu.notes.NotesApp - Заметка с id 2 не найдена
+03.19 12.47.03  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 12.47.07  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 12.47.14  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.13.47  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.48 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 14.13.48 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.13.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.13.49  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.13.49  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.13.49  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 14.16.15  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 14.16.15  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.16.15  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 14.16.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.16.35  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.16.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 14.16.47  WARN main ru.sfedu.notes.NotesApp - Заметка с id 3 не найдена
+03.19 14.17.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 14.17.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 14.17.00  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
