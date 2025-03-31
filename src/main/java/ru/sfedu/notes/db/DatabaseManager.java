@@ -21,27 +21,37 @@ public class DatabaseManager {
     /*
     Конструктор для подключения к БД через конфиг файл
      */
-    public DatabaseManager(String configFile) {
+    public DatabaseManager() {
         Properties properties = new Properties();
-        try (InputStream in = getClass().getClassLoader().getResourceAsStream(configFile)) {
-            if (in == null) {
-                log.error("Файл конфигурации отсутствует");
-                return;
+        try (InputStream in = getClass().getClassLoader().getResourceAsStream("configDB.properties")) {
+            if (in != null) {
+                properties.load(in);
+                log.info("Загружен configDB.properties");
+            } else {
+                log.warn("Файл конфигурации отсутствует, используются переменные окружения");
             }
-            properties.load(in);
-            String url = properties.getProperty("db.url");
-            String username = properties.getProperty("db.username");
-            String password = properties.getProperty("db.password");
+
+            String url = System.getenv("DB_URL") != null ? System.getenv("DB_URL") : properties.getProperty("db.url");
+            String username = System.getenv("DB_USERNAME") != null ? System.getenv("DB_USERNAME") : properties.getProperty("db.username");
+            String password = System.getenv("DB_PASSWORD") != null ? System.getenv("DB_PASSWORD") : properties.getProperty("db.password");
+
             connection = DriverManager.getConnection(url, username, password);
-            log.info("Успешное подключение к БД");
+            log.info("Успешное подключение к БД: " + url);
+
+            // Создание таблицы, если она не существует
+            String createTableSQL = "CREATE TABLE IF NOT EXISTS notes (id SERIAL PRIMARY KEY, text VARCHAR(255) NOT NULL)";
+            try (Statement stmt = connection.createStatement()) {
+                stmt.execute(createTableSQL);
+                log.info("Таблица notes создана или уже существует");
+            }
         } catch (Exception e) {
-            log.error("ОШИБКА ПОДКЛЮЧЕНИЯ:" + e.getMessage());
+            log.error("ОШИБКА ПОДКЛЮЧЕНИЯ: " + e.getMessage());
         }
     }
 
-    public DatabaseManager() {
-        this("configDB.properties"); // По умолчанию основной файл
-    }
+//    public DatabaseManager() {
+//        this("configDB.properties"); // По умолчанию основной файл
+//    }
 
 
     /*

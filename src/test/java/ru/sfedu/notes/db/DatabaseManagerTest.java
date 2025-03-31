@@ -28,7 +28,7 @@ public class DatabaseManagerTest {
         try (Statement statement = connection.createStatement()) {
             statement.execute("TRUNCATE TABLE notes RESTART IDENTITY");
         }
-        dbManager = new DatabaseManager("configDB.properties");
+        dbManager = new DatabaseManager();
     }
 
     @After

@@ -588,3 +588,714 @@
 03.19 15.31.44  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
 03.19 15.31.44  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
 03.19 15.31.46  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.22  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.23 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 15.45.23 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.23  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.30 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 15.45.30 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.45.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.40 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 15.45.40 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.40  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.45.49  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.50 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 15.45.50 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.45.50  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.42 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 15.46.42 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.46.42  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.46.43  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.48.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.48.23  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.48.26  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.48.28  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.08  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.09 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 15.55.09 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.09  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.16  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.16  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.16  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.16  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.16  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.17 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 15.55.17 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.17  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.18  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.18  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.55.18  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.18  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.18  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.18  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.32 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 15.55.32 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 15.55.32  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.33  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.40  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.41 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 15.55.41 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.41  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.55.42  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.55.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.55.42  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.55.42  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.56.38  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.39 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 15.56.39 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 15.56.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.30  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.31 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 16.06.31 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.31  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.06.59 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 16.06.59 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 16.06.59  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.07.00  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.07.13  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.07.13  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.07.16  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.09.38  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.39 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 16.09.39 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.09.39  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 16.11.47  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.48 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.19 16.11.48 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.11.48  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.19 16.12.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД
+03.19 16.12.47  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.12.50  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.19 16.12.56  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 17.40.57  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 17.40.57  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes
+03.31 17.40.57  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 17.41.00  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 17.41.13  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 17.41.15  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.31 17.41.15  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.31 17.41.17  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 17.41.21  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.04  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 18.25.04  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes_test
+03.31 18.25.04  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.31 18.25.04  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.31 18.25.04  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 18.25.04  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes_test
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes_test
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes_test
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes_test
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.05 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА СОЗДАНИЯ ЗАМЕТКИ: Соединение уже было закрыто
+03.31 18.25.05 ERROR main ru.sfedu.notes.db.DatabaseManager - ОШИБКА ПОЛУЧЕНИЯ ЗАМЕТОК: Соединение уже было закрыто
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes_test
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно удалена
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes_test
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка создана успешно
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.05  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes_test
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Заметка успешно обновлена
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes_test
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Успешная проверка существования заметки
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes_test
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 18.25.06  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
+03.31 19.04.55  INFO main ru.sfedu.notes.db.DatabaseManager - Загружен configDB.properties
+03.31 19.04.56  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное подключение к БД: jdbc:postgresql://localhost:5432/notes
+03.31 19.04.56  INFO main ru.sfedu.notes.db.DatabaseManager - Таблица notes создана или уже существует
+03.31 19.04.56  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 19.04.58  INFO main ru.sfedu.notes.db.DatabaseManager - Успешное получение заметок
+03.31 19.05.04  INFO main ru.sfedu.notes.db.DatabaseManager - Отключение бд
